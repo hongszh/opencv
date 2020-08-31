@@ -1,0 +1,3 @@
+/home/hui/data/Learn-OpenCV-4-By-Building-Projects-Second-Edition/Chapter_04/CMakeFiles/rebuild_cache.dir
+/home/hui/data/Learn-OpenCV-4-By-Building-Projects-Second-Edition/Chapter_04/CMakeFiles/Chapter4_Phototool.dir
+/home/hui/data/Learn-OpenCV-4-By-Building-Projects-Second-Edition/Chapter_04/CMakeFiles/edit_cache.dir
